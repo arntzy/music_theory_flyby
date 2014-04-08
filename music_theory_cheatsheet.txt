@@ -1,0 +1,172 @@
+Q: What is a scale? 
+A: A set of notes.
+
+
+MAJOR SCALES: 
+
+[C, D, E, F, G, A, B, C]--note names
+[  W, W, H, W, W, W, H ]--whole and half-steps
+[1, 2, 3, 4, 5, 6, 7, 1]--degrees of the scale
+
+
+
+MINOR SCALES:
+
+Minor scales can be built from a Major Scale.
+
+Natural Minor
+[C, D, Eb, F, G, Ab, Bb, C]--note names
+[1, 2, b3, 4, 5, b6, b7, 1]--degrees of the scale
+[b3, b6, b7]--flat the third, sixth, and seventh of Major Scale
+
+Harmonic Minor
+[C, D, Eb, F, G, Ab, B, C]--note names
+[1, 2, b3, 4, 5, b6, 7, 1]--degrees of the scale
+[b3, b6]--flat the third and the sixth of the Major Scale
+
+Melodic Minor
+[C, D, Eb, F, G, A, B, C]--note names
+[1, 2, b3, 4, 5, 6, 7, 1]--degrees of the scale
+[b3]--flat the third of the Major Scale
+
+
+
+MODES:
+
+Modes are simply scales starting on a different degree of a parent scale. 
+
+MODES OF THE C MAJOR SCALE:
+
+Ionian/Major Scale: [C, D, E, F, G, A, B, C]
+
+Dorian: [D, E, F, G, A, B, C, D]
+[b3, b7]
+
+Phrygian: [E, F, G, A, B, C, D, E]
+[b2, b3, b6, b7]
+
+Lydian: F, G, A, B, C, D, E, F
+[#4]
+
+Mixolydian: G, A, B, C, D, E, F, G
+[b7]
+
+Aeolian(Natural Minor): A, B, C, D, E, F, G, A
+[b3, b6, b7]
+
+Locrian: B, C, D, E, F, G, A, B
+[b2, b3, b5, b6, b7]
+
+{
+I	Ionian mode	C D E F G A B C	(associated with C Major 7 chord)
+ii	Dorian mode	C D E♭ F G A B♭ C	(associated with C-6 or C-7 13 chord)
+iii	Phrygian mode	C D♭ E♭ F G A♭ B♭ C	(associated with Csus4 ♭9)
+IV	Lydian mode	C D E F♯ G A B C	(associated with C Maj7 ♯11 chord)
+V	Mixolydian mode	C D E F G A B♭ C	(associated with C7 chord)
+vi	Aeolian mode	C D E♭ F G A♭ B♭ C	(associated with C-7 ♭13 chord)
+viiø	Locrian mode	C D♭ E♭ F G♭ A♭ B♭ C	(associated with C-7♭5 chord)
+}
+
+
+
+MODES OF THE MELODIC MINOR
+
+Let's build these together:
+
+i melodic minor
+II Dorian ♭2, or Phrygian ♮6
+III Lydian augmented
+IV Lydian dominant
+V Mixolydian ♭6
+vi Locrian ♮2, or Half-diminished
+VII Super Locrian, or altered scale
+
+
+Octatonic/Symmetric Diminished Scales:
+
+half-whole
+[C, Db, Eb, E, F#, G, A, Bb, C]
+[  H,  W,  H, W,  H, W, H,  W ]
+
+
+whole-half
+[C, D, Eb, F, Gb, Ab, A, B, C]
+[  W, H,  W, H,  W,  H, W, H ]
+
+
+BUILDING CHORDS:
+
+You can build triads by taking the [1st,3rd,5th] from a scale. (these are indexes, not the state of the degrees!)
+
+For example:
+
+D Major Scale--[D, E, F#, G, A, B, C#, D]
+			   [1 ,2 ,3,  4, 5, 6, 7,  1]
+D Major Triad--[D, F#, A]
+
+You can build seventh chords by taking the [1st,3rd,5th,7th] from a scale. 
+
+You can build whatever you want. 
+
+Inversions are simply chords with the notes in a different order. 
+
+Extensions(i.e. 9th, 11th, 13th) are referred to after a seventh is present in a chord.  
+
+
+
+
+
+THE CONFUSION AROUND NAMING THE CHORDS:
+
+1. A "major seven chord" means that the seventh of that chord's root's major scale is in it's unaltered or natural state. (meaning not flat) It is written like this Cmaj7, CMA7, and pronounced, "C major seven"
+
+2. A "dominant chord" means that the seventh of that chord's root's major scale is flat. It is written like this: C7 and is pronounced "C seven"
+
+3. A "minor seven" chord means that the third and seventh are flat: Cm7, C-7, Cmi7, "C minor seven"
+
+4. An "augmented chord" means the fifth is sharp: C(#5), or C+
+
+5. a "diminished triad" means the 3rd and 5th are flat. and is written Cdim.
+
+6. A "half-dimished chord" is a seventh chord with a minor triad and a flat seven: Cm7(b5), pronounced "C half-diminished", or "C minor seven flat five"
+
+7. A "fully dimished chord" is a seventh chord where the 3rd and 5th are flat, and the 7th is DOUBLE FLAT!, written with a little circle next to the Co7, (no slash through the circle, that's half-dimished) and is pronounced "C dimished seven", or "C fully diminished"  
+
+8. All the above rules apply to extensions and alterations. (e.g. Cmaj9(#5) would be said "C major nine sharp 5") C13-- "C thirteen", but remember there is a b7 below that 13!
+
+
+CHORD ANALYSIS:
+
+1. Look for a triad. Is it major or minor? Is the fifth altered in some way? 
+2. Look for additional notes. 
+3. What is this chord? 
+
+[C, E, G, Bb, D]
+
+
+JAZZ LINGO: 
+
+"voicings"-- the way you choose to play the notes of a chord.
+
+"let's play this in two flats"-- refers to the major/minor scale which has two flatted notes. Which one is that? 
+
+"Diatonic"
+
+"Chromatic"
+
+"Pentatonic"
+
+"Blues Scale"
+
+NOW PRACTICE!!!!
+
+
+
+
+
+
+
+
+
+
+
