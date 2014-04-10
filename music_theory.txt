@@ -1,0 +1,82 @@
+//Aaron Arntz
+//2014
+
+Verbs: 
+flat: move one half-step down
+sharp: move one half-step up 
+
+Unique note set: [C, (C# Db), D, (D# Eb), E, F, (F# Gb), G, (G#, Ab), A, (A# Bb), B]
+
+half-step: the smallest distance between two notes on a piano. 
+
+whole-step: two half-steps. 
+
+
+THE MAJOR SCALE
+
+Creation of a major scale in Brainfuck-like terms: 
+
+Think of the piano keyboard as an inifinite loop of ticker tape preloaded into brainfuck: 
+
+
+'>': Move the tapehead to the right.
+'.': Print value at that location.   
+
+
+1. Start on any note, let's say "E".  
+
+2. Our array so far: E_Major_Scale = [E]
+
+3. To create a major scale: >>. >>. >. >>. >>. >>. >.   OR   W W H W W W H  
+ 
+4. Our new array: E_Major_Scale = [E, F#, G#, A, B, C#, D#, E] (note: musical scale arrays start with 1)
+
+5. What is E_Major_Scale[5]?
+
+6. What about E_Major_Scale[7]? 
+
+7. These are the "degrees of the major scale, and their values"
+
+8. All scales can be constructed in relation to this first major scale. (Or with Brainfuck)
+
+
+
+
+MINOR SCALE [transformational matrices] to apply to the major scale:  
+
+function flat(){
+	<. 
+} 
+
+function sharp(){
+	>.
+}
+
+
+1. Natural Minor 
+
+matrix to apply: [b3, b6, b7]
+
+[E_Major_Scale[3].flat(), E_Major_Scale[6].flat(), E_Major_Scale[7].flat()]  
+	
+
+
+
+2. Harmonic Minor 
+3. Melodic Minor 
+
+
+
+
+
+LINGO CONFUSION: 
+
+1. Forget classical music's name for chords, as they are insane. 
+
+2. 
+
+
+
+
+
+
