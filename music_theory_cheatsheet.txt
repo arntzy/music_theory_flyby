@@ -37,14 +37,15 @@ MODES:
 
 Modes are simply scales starting on a different degree of a parent scale. 
 
-MODES OF THE C MAJOR SCALE:
+MODES OF THE C MAJOR SCALE: (note: you could apply these modes to ANY major scale)
 
-Ionian/Major Scale: [C, D, E, F, G, A, B, C]
+Ionian/Major Scale: [C, D, E, F, G, A, B, C]--C Ionian
 
-Dorian: [D, E, F, G, A, B, C, D]
+Dorian: [D, E, F, G, A, B, C, D]--D Dorian
 [b3, b7]
 
 [E F# G A B C# D E]--E Dorian
+[E F# G# A B C# D# E]--E Major
 
 Phrygian: [E, F, G, A, B, C, D, E]
 [b2, b3, b6, b7]
@@ -89,6 +90,8 @@ III Lydian augmented
 [Eb F G A B C D Eb]-- Eb Lydian Augmented, or the 3rd mode of the C Melodic Minor Scale
 
 [Eb F G Ab Bb C D Eb]--Eb major scale
+
+You build the rest:
 
 IV Lydian dominant
 V Mixolydian ♭6
@@ -150,7 +153,7 @@ THE CONFUSION AROUND NAMING THE CHORDS:
 
 7. A "fully dimished chord" is a seventh chord where the 3rd and 5th are flat, and the 7th is DOUBLE FLAT!, written with a little circle next to the Co7, (no slash through the circle, that's half-dimished) and is pronounced "C dimished seven", or "C fully diminished"  
 
-8. All the above rules apply to extensions and alterations. (e.g. Cmaj9(#5) would be said "C major nine sharp 5") C13-- "C thirteen", but remember there is a b7 below that 13!
+8. All the above rules apply to extensions and alterations. (e.g. Cmaj9(#5) would be said "C major nine sharp 5") C13-- "C thirteen", but remember there is a b7(flat7 not B7) below that 13!
 
 [F# G# A# B C# D# E# F#]--F# major scale
 
