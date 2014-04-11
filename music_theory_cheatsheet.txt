@@ -152,8 +152,7 @@ THE CONFUSION AROUND NAMING THE CHORDS:
 
 8. All the above rules apply to extensions and alterations. (e.g. Cmaj9(#5) would be said "C major nine sharp 5") C13-- "C thirteen", but remember there is a b7 below that 13!
 
-[
-F# G# A# B C# D# E# F#]--F# major scale
+[F# G# A# B C# D# E# F#]--F# major scale
 
 F#maj7
 [F# A# C# E#]
@@ -169,11 +168,13 @@ F#m7
 CHORD ANALYSIS:
 
 1. Look for a triad. Is it major or minor? Is the fifth altered in some way? 
-2. Look for additional notes. 
-3. What is this chord? 
+2. What about the seventh? Has it been changed?
+3. Look for additional notes. 
+4. What is this chord? 
 
-[C, E, G, Bb, D]
-[C9]
+[C, E, G, Bb, D]--C9
+
+[C, E, G, B, D]--Cmaj9 
 
 [E G Bb D]
 [E F# G# A B C# D# E]--Em7(b5)
