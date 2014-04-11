@@ -5,6 +5,7 @@ A: A set of notes.
 MAJOR SCALES: 
 
 [C, D, E, F, G, A, B, C]--note names
+[D E F# G A B C# D]--D Major Scale
 [  W, W, H, W, W, W, H ]--whole and half-steps
 [1, 2, 3, 4, 5, 6, 7, 1]--degrees of the scale
 
@@ -27,6 +28,7 @@ Harmonic Minor
 Melodic Minor
 [C, D, Eb, F, G, A, B, C]--note names
 [1, 2, b3, 4, 5, 6, 7, 1]--degrees of the scale
+[D E F G A B C# D]--D melodic minor
 [b3]--flat the third of the Major Scale
 
 
@@ -41,6 +43,8 @@ Ionian/Major Scale: [C, D, E, F, G, A, B, C]
 
 Dorian: [D, E, F, G, A, B, C, D]
 [b3, b7]
+
+[E F# G A B C# D E]--E Dorian
 
 Phrygian: [E, F, G, A, B, C, D, E]
 [b2, b3, b6, b7]
@@ -73,14 +77,26 @@ MODES OF THE MELODIC MINOR
 
 Let's build these together:
 
-i melodic minor
+i melodic minor 
+[C D Eb F G A B C]--C Melodic Minor
+
+
 II Dorian ♭2, or Phrygian ♮6
+[D Eb F G A B C D]--D Dorian b2  or the 2nd mode of the C Melodic Minor scale
+[D E F# G A B C# D]--D major scale
+
 III Lydian augmented
+[Eb F G A B C D Eb]-- Eb Lydian Augmented, or the 3rd mode of the C Melodic Minor Scale
+
+[Eb F G Ab Bb C D Eb]--Eb major scale
+
 IV Lydian dominant
 V Mixolydian ♭6
 vi Locrian ♮2, or Half-diminished
-VII Super Locrian, or altered scale
 
+VII Super Locrian, or altered scale
+[B C D Eb F G A B]--B altered, or B Super Locrian
+[B C# D# E F# G# A# B]--B Major Scale
 
 Octatonic/Symmetric Diminished Scales:
 
@@ -112,7 +128,9 @@ Inversions are simply chords with the notes in a different order.
 
 Extensions(i.e. 9th, 11th, 13th) are referred to after a seventh is present in a chord.  
 
-
+9th = 2nd
+11th = 4th
+13th = 6th
 
 
 
@@ -134,6 +152,19 @@ THE CONFUSION AROUND NAMING THE CHORDS:
 
 8. All the above rules apply to extensions and alterations. (e.g. Cmaj9(#5) would be said "C major nine sharp 5") C13-- "C thirteen", but remember there is a b7 below that 13!
 
+[
+F# G# A# B C# D# E# F#]--F# major scale
+
+F#maj7
+[F# A# C# E#]
+
+F#7 
+[F# A# C# E]
+
+F#m7 
+[F# A C# E]
+
+
 
 CHORD ANALYSIS:
 
@@ -142,6 +173,15 @@ CHORD ANALYSIS:
 3. What is this chord? 
 
 [C, E, G, Bb, D]
+[C9]
+
+[E G Bb D]
+[E F# G# A B C# D# E]--Em7(b5)
+
+[G Bb D E]--Gm6
+[G A B C D E F# G]
+
+[E G Bb D]-C9 (rootless voicing)
 
 
 JAZZ LINGO: 
