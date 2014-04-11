@@ -10,7 +10,6 @@ MAJOR SCALES:
 [1, 2, 3, 4, 5, 6, 7, 1]--degrees of the scale
 
 
-
 MINOR SCALES:
 
 Minor scales can be built from a Major Scale.
@@ -187,6 +186,7 @@ CHORD ANALYSIS:
 
 [E G Bb D]-C9 (rootless voicing)
 
+[G A B C D E F#]
 
 JAZZ LINGO: 
 
