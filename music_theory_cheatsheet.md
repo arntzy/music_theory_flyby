@@ -93,51 +93,51 @@ MODES OF THE C MAJOR SCALE: (note: you could apply these modes to ANY major scal
 - vi	Aeolian mode	C D E♭ F G A♭ B♭ C	(associated with C-7 ♭13 chord)
 - viiø	Locrian mode	C D♭ E♭ F G♭ A♭ B♭ C	(associated with C-7♭5 chord)
 
-MODES OF THE MELODIC MINOR
+### MODES OF THE MELODIC MINOR
 
 Let's build these together:
 
 **i melodic minor**
-`['C', 'D', 'Eb', 'F', 'G', 'A', 'B']`: C Melodic Minor
+- `['C', 'D', 'Eb', 'F', 'G', 'A', 'B']`: C Melodic Minor
 
 **ii Dorian ♭2, or Phrygian ♮6**
-`['D', 'E', 'F#', 'G', 'A', 'B', 'C#']` : D major scale
-`['D', 'Eb', 'F', 'G', 'A', 'B', 'C']` : D Dorian b2  or the 2nd mode of the C Melodic Minor scale
+- `['D', 'E', 'F#', 'G', 'A', 'B', 'C#']` : D major scale
+- `['D', 'Eb', 'F', 'G', 'A', 'B', 'C']` : D Dorian b2  or the 2nd mode of the C Melodic Minor scale
 
 **III Lydian augmented**
-`['Eb', 'F', 'G', 'Ab', 'Bb', 'C', 'D']` : Eb major scale
-`['Eb', 'F', 'G', 'A', 'B', 'C', 'D']` : Eb Lydian Augmented, or the 3rd mode of the C Melodic Minor Scale
+- `['Eb', 'F', 'G', 'Ab', 'Bb', 'C', 'D']` : Eb major scale
+- `['Eb', 'F', 'G', 'A', 'B', 'C', 'D']` : Eb Lydian Augmented, or the 3rd mode of the C Melodic Minor Scale
 
 You build the rest:
 
-IV Lydian dominant
-V Mixolydian ♭6
-vi Locrian ♮2, or Half-diminished
-VII Super Locrian, or altered scale
+- **IV Lydian dominant**
+- **V Mixolydian ♭6**
+- **vi Locrian ♮2, or Half-diminished**
+- **VII Super Locrian, or altered scale**
 
 Octatonic/Symmetric Diminished Scales:
 
-half-whole
-`['C', 'Db', 'Eb', 'E', 'F#', 'G', 'A', 'Bb']`
-`['H',  'W',  'H', 'W',  'H', 'W', 'H',  'W' ]`
+half-whole:
+- `['C', 'Db', 'Eb', 'E', 'F#', 'G', 'A', 'Bb']`
+- `['H', 'W', 'H', 'W', 'H', 'W', 'H', 'W']`
 
 
-whole-half
-`['C', 'D', 'Eb', 'F', 'Gb', 'Ab', 'A', 'B']`
-`[ 'W', 'H',  'W', 'H',  'W',  'H', 'W', 'H' ]`
+whole-half:
+- `['C', 'D', 'Eb', 'F', 'Gb', 'Ab', 'A', 'B']`
+- `[ 'W', 'H',  'W', 'H',  'W',  'H', 'W', 'H' ]`
 
 
-BUILDING CHORDS:
+## BUILDING CHORDS
 
 You can build triads by taking the [1st,3rd,5th] from a scale. (these are indexes, not the state of the degrees!)
 
 For example:
 
-D Major Scale--[D, E, F#, G, A, B, C#, D]
+D Major Scale: `[D, E, F#, G, A, B, C#, D]`
 
-D Major Triad--[D, F#, A]
+D Major Triad: `[D, F#, A]`
 
-You can build seventh chords by taking the [1st,3rd,5th,7th] from a scale. 
+You can build seventh chords by taking the `[1st,3rd,5th,7th]` from a scale. 
 
 You can build whatever you want. 
 
@@ -150,8 +150,7 @@ Extensions(i.e. 9th, 11th, 13th) are referred to after a seventh is present in a
 13th = 6th
 
 
-
-THE CONFUSION AROUND NAMING THE CHORDS:
+### THE CONFUSION AROUND NAMING THE CHORDS
 
 1. A "major seven chord" means that the seventh of that chord's root's major scale is in it's unaltered or natural state. (meaning not flat) It is written like this Cmaj7, CMA7, and pronounced, "C major seven"
 
@@ -169,41 +168,33 @@ THE CONFUSION AROUND NAMING THE CHORDS:
 
 8. All the above rules apply to extensions and alterations. (e.g. Cmaj9(#5) would be said "C major nine sharp 5") C13-- "C thirteen", but remember there is a b7(flat7 not B7) below that 13!
 
-[F# G# A# B C# D# E# F#]--F# major scale
+- F# Major Scale: `[F#, G#, A#, B, C#, D#, E#, F#]`
 
-F#maj7
-[F# A# C# E#]
+- F#maj7: `[F#, A#, C#, E#]`
 
-F#7 
-[F# A# C# E]
+- F#7: `[F#, A#, C#, E]`
 
-F#m7 
-[F# A C# E]
+- F#m7: `[F#, A, C#, E]`
 
 
-
-CHORD ANALYSIS:
+### CHORD ANALYSIS
 
 1. Look for a triad. Is it major or minor? Is the fifth altered in some way? 
 2. What about the seventh? Has it been changed?
 3. Look for additional notes. 
 4. What is this chord? 
 
-[C, E, G, Bb, D]--C9
+- C9: `[C, E, G, Bb, D]`
 
-[C, E, G, B, D]--Cmaj9 
+- Cmaj9: `[C, E, G, B, D]`
 
-[E G Bb D]
-[E F# G# A B C# D# E]--Em7(b5)
+- Em7(b5): `[E, G, Bb, D]`
 
-[G Bb D E]--Gm6
-[G A B C D E F# G]
+- Gm6: `[G, Bb, D, E]`
 
-[E G Bb D]-C9 (rootless voicing)
+- C9 (rootless voicing) : `[E, G, Bb, D]`
 
-[G A B C D E F#]
-
-JAZZ LINGO: 
+#### JAZZ LINGO 
 
 "good ears"
 
@@ -219,7 +210,7 @@ JAZZ LINGO:
 
 "Blues Scale"
 
-NOW PRACTICE HARD!!!!
+# NOW PRACTICE!!!!
 
 
 
